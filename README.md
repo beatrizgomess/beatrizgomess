@@ -1,4 +1,4 @@
-## Beatriz
+## Beatriz Gomes
 
 
 - 🔭 Trabalhando/estudando com flutter
