@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizgomess&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bea-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bea-Python" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bea-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Bea-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Bea-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -32,6 +32,6 @@
    <div>
   <a href = "mailto:beatrizgomesxx@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail-new.png"/>   <a href = "	https://t.me/beagomess"><img align="center" src="https://img.icons8.com/bubbles/50/000000/sent.png"/>
  </div>
-   https://github.com/beatrizgomess/beatrizgomess/blob/output/github-contribution-grid-snake.svg
+ 
   
     
