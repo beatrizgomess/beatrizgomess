@@ -1,7 +1,7 @@
-## Olá Mundo, eu sou a Bea!!
+## Beatriz
 
 
-- 🔭 Estou trabalhando/estudando com flutter
+- 🔭 Trabalhando/estudando com flutter
 - 💻 Estudando Flutter em um projeto de extensão
 - 😅 Pronouns: ela/dela
 - 🇧🇷
