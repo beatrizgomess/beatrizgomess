@@ -4,7 +4,8 @@
 - 🔭 Estou trabalhando/estudando com flutter
 - 💻 Estudando Flutter em um projeto de extensão
 - 😅 Pronouns: ela/dela
-- 
+- 🇧🇷
+
 <div style="display: inline_block"><br>
  
 </div>
