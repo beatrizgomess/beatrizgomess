@@ -32,6 +32,6 @@
    <div>
   <a href = "mailto:beatrizgomesxx@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail-new.png"/>   <a href = "	https://t.me/beagomess"><img align="center" src="https://img.icons8.com/bubbles/50/000000/sent.png"/>
  </div>
-   https://github.com/beatrizgomess/beatrizgomess/blob/output/github-contribution-grid-bat.svg
+   https://github.com/beatrizgomess/beatrizgomess/blob/output/github-contribution-grid-snake.svg
   
     
