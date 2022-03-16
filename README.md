@@ -23,9 +23,8 @@
   <img align="center" alt="Bea-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  
   <img align="right" alt="Bea-pic" height="150" style="border-radius:50px;"      
+  src="https://user-images.githubusercontent.com/78573126/135185751-b5552ac3-74de-441a-93be-f7cf8b20983b.gif">
  
-  <img align="right" alt="Bea-pic" height="100" style="border-radius:60px;" 
-  src="https://user-images.githubusercontent.com/78573126/135186966-f6c8cfb2-0854-49a1-b819-e49d9705490a.gif">
   <img align="right" alt="Bea-pic" height="100" style="border-radius:60px;" 
   src="https://user-images.githubusercontent.com/78573126/135186966-f6c8cfb2-0854-49a1-b819-e49d9705490a.gif">
   
