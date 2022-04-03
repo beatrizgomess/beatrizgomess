@@ -23,8 +23,7 @@
   <img align="center" alt="Bea-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Bea-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  
-  <img align="right" alt="Bea-pic" height="150" style="border-radius:50px;"      
-  src="https://user-images.githubusercontent.com/78573126/135185751-b5552ac3-74de-441a-93be-f7cf8b20983b.gif">
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=592434525962806940" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
  
 
   
