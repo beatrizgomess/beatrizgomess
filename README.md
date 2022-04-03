@@ -6,7 +6,7 @@
 - 😅 Pronouns: ela/dela
 - 🇧🇷
 
-<div style="display: inline_block"><br>
+<div style="display: block"><br>
  
 </div>
 
