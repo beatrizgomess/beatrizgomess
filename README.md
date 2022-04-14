@@ -31,7 +31,7 @@
   
   ##
    <div>
-  <a href = "mailto:beatrizgomesxx@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail-new.png"/>   <a href = "	https://t.me/beagomess"><img align="center" src="https://img.icons8.com/bubbles/50/000000/sent.png"/>
+  <a href = "mailto:beatrizgomesxx@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail-new.png"/>   <a href = "	https://t.me/beagomess"><img align="center" rc="https://img.icons8.com/ios-filled/50/000000/telegram-app.png">
  </div>
  
   
