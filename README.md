@@ -1,10 +1,10 @@
 ## Beatriz Gomes
 
 
-- 🔭 Trabalhando/estudando com flutter
-- 💻 Estudando Flutter em um projeto de extensão
+- 💻 Estudando/Trabalhando com Flutter em um projeto de extensão 
 - 😅 Pronouns: ela/dela
-- 🇧🇷
+- 🇧🇷 Brazil
+- 💻 Analise e Desenvolvimento de Sistemas
 
 <div style="display: block"><br>
  
