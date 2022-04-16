@@ -6,7 +6,7 @@
 - 🇧🇷 Brazil
 - 💻 Analise e Desenvolvimento de Sistemas
 
-<div style="display: block"><br>
+<div style="display: inline"><br>
  
 </div>
 
