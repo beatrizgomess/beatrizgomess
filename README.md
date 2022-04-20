@@ -2,7 +2,7 @@
 
 
 - 💻 Studying/Working with flutter
--  Learning: Java, SQL and Flutter
+- 🌱 Learning: Java, SQL and Flutter
 - 😅 Pronouns: she/her
 - 🇧🇷 Brazil
 - 💻 Analysis and systems development
