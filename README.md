@@ -11,11 +11,10 @@
  
 </div>
 
-<div align="left">
-  <a href="https://github.com/beatrizgomess">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrizgomess&show_icons=&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img height="160em" ![Top Langs](src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizgomess&theme=tokyonight")
- 
+<div align="center">
+ <a href="https://github.com/beatrizgomess">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizgomess&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beatrizgomess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
  <h4>Languages i'm studying </h4>
