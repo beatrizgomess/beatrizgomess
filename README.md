@@ -33,6 +33,9 @@
   <img align="center" alt="Bea-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Bea-gitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">                           </div>
  <br>
+ <div style="display: right"><br>
+  <img align="center" alt="Bea-gitLab" height="30" width="40" src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)">                           
+ </div>
  <br>
    <div>
   <a href = "mailto:beatrizgomesxx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
