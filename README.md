@@ -29,8 +29,11 @@
   <img align="center" alt"Bea-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
       </div>
  
-
-  
+<div style="display: inline_block"><br>
+ <h4>Tools i'm using </h4>
+  <img align="center" alt="Bea-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Bea-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">                                                                                                                                     
+ </div>
   ##
    <div>
   <a href = "mailto:beatrizgomesxx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
