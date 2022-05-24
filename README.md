@@ -32,7 +32,7 @@
   
   ##
    <div>
-  <a href = "mailto:beatrizgomesxx@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>   <a href = "	https://t.me/beagomess"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
+  <a href = "mailto:beatrizgomesxx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href=https://www.linkedin.com/in/lilian-beatriz-b6b899228/)target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </div>
  
