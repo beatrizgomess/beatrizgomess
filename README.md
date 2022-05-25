@@ -39,8 +39,8 @@
  </div>
 <div style="display: inline_block"><br>
  <h4>Tools i'm using </h4>
-  <img align="center" alt="Bea-Git" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Bea-gitLab" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">                           </div>
+  <img align="center" alt="Bea-Git" height="10px" width="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Bea-gitLab" height="10px" width="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">                           </div>
  <br>
  <br>
    <div>
