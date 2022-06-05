@@ -13,7 +13,7 @@
 
 <div align="left">
  <a href="https://github.com/beatrizgomess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizgomess&layout=compact&langs_count=7&theme=darkt"/>
+ 
  
 </div>
 <div style="display: inline_block"><br>
