@@ -8,7 +8,9 @@
 - 💻 Analysis and systems development
 
 <div style="display: inline"><br>
- 
+   <a href="https://github.com/beatrizgomess">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizgomess&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beatrizgomess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="left">
