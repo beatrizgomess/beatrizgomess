@@ -45,7 +45,10 @@
    <div>
      <h4>Talk to me! </h4>
   <a href = "mailto:beatrizgomesxx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-![image](https://github.com/beatrizgomess/beatrizgomess/assets/78573126/1082f5a9-7fce-4223-bbe9-287e5e30ed90)
+
+
+
+![Screenshot 2023-09-20 at 21-00-43 Currículo-Lilian Beatriz pdf](https://github.com/beatrizgomess/beatrizgomess/assets/78573126/f7777f16-45f3-4bdb-9df9-e712007252c3)
 
 
     
